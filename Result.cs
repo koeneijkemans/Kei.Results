@@ -1,6 +1,6 @@
 using System;
 
-namespace Kei.BuildingBlocks.Results;
+namespace Kei.Results;
 
 public class Result
 {
