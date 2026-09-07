@@ -1,5 +1,4 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
@@ -7,7 +6,7 @@
     <IsPackable>true</IsPackable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Kei.Results</PackageId>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Koen Eijkemans</Authors>
     <Company>Koen Eijkemans</Company>
     <Description>Small result type helpers for success and failure flows.</Description>
@@ -24,5 +23,4 @@
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
-
 </Project>
