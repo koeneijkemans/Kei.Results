@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/Kei.Results.Tests/Kei.Results.Tests.csproj" />
+  </Folder>
+  <Project Path="Kei.Results.csproj" />
+</Solution>
